@@ -38,8 +38,6 @@ To run the code, compile `cpu_scheduling.c` using a C compiler. Ensure to provid
 
 2. Run the executable file:
 
-Ensure that you provide clear and concise instructions for users who may not be familiar with compiling and running C code.
-
 ## Testing
 
 To test the code, follow these steps:
