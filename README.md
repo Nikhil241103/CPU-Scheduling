@@ -34,9 +34,9 @@ To run the code, compile `cpu_scheduling.c` using a C compiler. Ensure to provid
 
 ### Instructions for Compiling and Running
 
-1. Compile the code using a C compiler (e.g., gcc):
+1. Compile the code using a C compiler (e.g., gcc): gcc cpu_scheduling.c -o cpu_scheduling
 
-2. Run the executable file:
+2. Run the executable file: ./cpu_scheduling
 
 ## Testing
 
